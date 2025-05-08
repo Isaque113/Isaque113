@@ -7,3 +7,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Portfolio Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/isaque-portifolio/in%C3%ADcio)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://Isaque113.github.io)
+
+![Snake animation](https://github.com/Issaque113/Isaque113/blob/output/github-contribution-grid-snake.svg)
