@@ -1,8 +1,8 @@
 # Olá, eu sou Isaque Carlos! 👋
 ## Sobre mim
-✔ 🔭 Estudante de Análise e Desenvolvimento de Sistemas no CEUB
-✔ 🌱 Aprendendo SQL, Python e C
-
+✔ 🔭 Estudante de Análise e Desenvolvimento de Sistemas no CEUB <br>
+✔ 🌱 Aprendendo SQL, Python e C <br>
+<br>
 ## Sites, Portifólio, Contatos e afins 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Portfolio Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/isaque-portifolio/in%C3%ADcio)
