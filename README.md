@@ -1,4 +1,4 @@
-# Olá, eu sou Isaque Carlos! 👋
+# Olá, me chamo Isaque! 👋
 ## Sobre mim
 🔭 Estudante de Análise e Desenvolvimento de Sistemas no CEUB <br>
 🌱 Aprendendo SQL, Python e C <br>
