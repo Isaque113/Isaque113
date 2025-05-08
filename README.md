@@ -1,7 +1,7 @@
 # Olá, eu sou Isaque Carlos! 👋
 ## Sobre mim
-✔ 🔭 Estudante de Análise e Desenvolvimento de Sistemas no CEUB <br>
-✔ 🌱 Aprendendo SQL, Python e C <br>
+🔭 Estudante de Análise e Desenvolvimento de Sistemas no CEUB <br>
+🌱 Aprendendo SQL, Python e C <br>
 <br>
 ## Sites, Portifólio, Contatos e afins 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
